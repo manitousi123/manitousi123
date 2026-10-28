@@ -21,5 +21,5 @@
 ---
 
 <a href="https://www.linkedin.com/in/mani-tousi-panah-8b947928b/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
 </a>
