@@ -20,4 +20,6 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/manitousipanah](https://www.linkedin.com/in/mani-tousi-panah-8b947928b/))
+<a href="https://www.linkedin.com/in/mani-tousi-panah-8b947928b/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40" />
+</a>
