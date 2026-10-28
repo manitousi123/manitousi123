@@ -20,4 +20,4 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manitousipanah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/manitousipanah](https://www.linkedin.com/in/mani-tousi-panah-8b947928b/))
